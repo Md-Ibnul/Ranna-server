@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "chef_name": "Sanjeev Kapoor",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 120,
+        "likes": 25000
+      },
+    {
+        "id": "2",
+        "chef_name": "Ranveer Brar",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 118,
+        "likes": 28000
+      },
+    {
+        "id": "3",
+        "chef_name": " Anjum Anand",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india5.jpg",
+        "years_of_experience": 5,
+        "num_recipes": 110,
+        "likes": 22000
+      },
+    {
+        "id": "4",
+        "chef_name": "Vineet Bhatia",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india7.jpg",
+        "years_of_experience": 7,
+        "num_recipes": 114,
+        "likes": 22500
+      },
+    {
+        "id": "5",
+        "chef_name": "Saransh Goila",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india9.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 110,
+        "likes": 23800
+      },
+    {
+        "id": "6",
+        "chef_name": "Harpal Singh Sokhi",
+        "chef_photo": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india10.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 105,
+        "likes": 20000
+      }
+]

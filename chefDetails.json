@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjeev Kapoor",
+        "picture_url": "https://images.yourstory.com/cs/7/4c455a90a21411e98b07315772315642/SANJEEVKAPOORPLACEHOLDERFotor-1599113083364.png?fm=png&auto=format",
+        "bio": "Sanjeev Kapoor is an Indian chef, restaurateur, and television personality. He is best known for his fiery temper and high standards in the kitchen, as well as his TV shows 'Hell's Kitchen' and 'MasterChef.' He is a rising star in the culinary world. His signature Italian dishes have earned him fame and reputation in New Jersey. Happily married for 15 years, he works to bring the community together, celebrating the joys of living and eating well.",
+        "recipes": [
+          "Beef Wellington",
+          "Shepherd's Pie",
+          "Scrambled Eggs",
+          "Chocolate Cake",
+          "Fish and Chips",
+          "Chicken Parmesan",
+          "Sausage and Mash",
+          "Roast Beef"
+        ],
+        "years_of_experience": 8,
+        "num_recipes": 120,
+        "likes": 25000
+      },
+      {
+        "id": 2,
+        "name": "Ranveer Brar",
+        "picture_url": "https://images.yourstory.com/cs/7/1da9ec30-14cc-11e9-a1b2-b928167b6c62/ranveer_filler_pic1560768047273.png?fm=png&auto=format",
+        "bio": "Ranveer Brar is an Indian chef, author, and television personality. She is best known for her TV show 'Barefoot Contessa' and her focus on simple, elegant recipes using high-quality ingredients. He  is the brains behind New York’s top-rated (Restaurant name). His indisputable talent in molecular gastronomy has made him a leader in the industry, adding an artistic twist to his modern American dishes.",
+        "recipes": [
+          "Roast Chicken",
+          "Lobster Mac and Cheese",
+          "Chocolate Cake",
+          "Stuffed Shells",
+          "Beef Wellington",
+          "Beef Bourguignon",
+          "Lemon Bars"
+        ],
+        "years_of_experience": 10,
+        "num_recipes": 118,
+        "likes": 28000
+      },
+      {
+        "id": 3,
+        "name": "Anjum Anand",
+        "picture_url": "https://i.ytimg.com/vi/6P8ZeTgIRk4/maxresdefault.jpg",
+        "bio": "Anjum Anand is an Indian chef, restaurateur, and television personality. He is known for his focus on healthy, flavorful food and his campaigns to improve school lunches and promote healthy eating. He is the executive chef at (Restaurant name), a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Pacific Northwest.",
+        "recipes": [
+         "Shepherd's Pie",
+          "Pesto Pasta",
+          "Roasted Vegetables",
+          "Chicken Tikka Masala",
+          "Beef Stroganoff",
+          "Sausage and Mash",
+          "Banana Bread"
+        ],
+        "years_of_experience": 5,
+        "num_recipes": 110,
+        "likes": 22000
+      },
+      {
+        "id": 4,
+        "name": "Vineet Bhatia",
+        "picture_url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2023/01/03/322923-your-paragraph-text-47.jpg?imwidth=1080",
+        "bio": "Vineet Bhatia is an Indian chef, author, and television personality. She is known for her indulgent, comfort-food recipes and her ability to make cooking accessible and enjoyable for home cooks. He  is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
+        "recipes": [
+          "Chocolate Brownies",
+          "Spaghetti Carbonara",
+          "Lemon Drizzle Cake",
+          "Chicken Katsu Curry",
+          "Lamb Chops with Mint Sauce",
+          "Blueberry Muffins"
+        ],
+        "years_of_experience": 7,
+        "num_recipes": 114,
+        "likes": 22500
+      },
+      {
+        "id": 5,
+        "name": "Saransh Goila",
+        "picture_url": "https://static.businessworld.in/article/article_extra_large_image/1509816647_kTUtmG_Saransh-Goila.jpg",
+        "bio": "Saransh Goila was an Indian chef, author, and television personality. He was known for his adventurous spirit and his ability to use food to explore different cultures and connect with people around the world. is one of the main reasons why the restaurant Ranna is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town",
+        "recipes": [
+          "Vietnamese Pho",
+          "Banh Mi Sandwich",
+          "Pork Adobo",
+          "Beef Satay",
+          "Pad See Ew",
+          "Hainanese Chicken Rice"
+        ],
+        "years_of_experience": 8,
+        "num_recipes": 110,
+        "likes": 23800
+      },
+      {
+        "id": 6,
+        "name": "Harpal Singh Sokhi",
+        "picture_url": "https://nrai.org/wp-content/uploads/2016/10/Jhalak-Dikhhla-Jaa-Season-9-Contestant-list-3.jpg",
+        "bio": "Harpal Singh Sokhi was an Indian chef, author, and television personality. He was known for his adventurous spirit and his ability to use food to explore different cultures and connect with people around the world. He  is the head chef and owner of Ranna, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006.",
+        "recipes": [
+            "Blueberry Muffins",
+            "Banh Mi Sandwich",
+            "Roast Beef",
+            "Chicken Tikka Masala",
+            "Spaghetti Carbonara",
+            "Spaghetti Carbonara",
+            "Hainanese Chicken Rice"
+        ],
+        "years_of_experience": 8,
+        "num_recipes": 105,
+        "likes": 20000
+      }
+]

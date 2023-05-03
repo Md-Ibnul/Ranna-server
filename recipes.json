@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1,
+        "category_id": 20191343,
+        "name": "Chicken Burrito",
+        "image_url": "https://josieandnina.com/wp-content/uploads/2019/11/Vertical-Double-Stacked-Burrito-with-Jalapenos-Cilantro-and-Guac.jpg",
+        "description": "Be a kid or a teenage or an adult or an oldie, chicken lovers trend all over the world at all times! One meat that is a favourite of all beyond belief! When cooked, it can be presented in many guises. Sauté it, fry it, toss it, bake it, steam it – eat it the way you want to. Whatever its form may be upon being cooked, its flavour may change but its flesh remains high in protein, low in fat and can be digested easily.",
+        "ingredients": [
+          "Boneless chicken",
+          "Barbeque sauce",
+          "Balsamic vinegar 1/2 cup",
+          "Tomato ketchup 1/2 cup",
+          "Red chillli powder 1/2 teaspoon",
+          "Rice , cooked 1 cup",
+          "Water as needed",
+          "Oil 1 tablespoon"
+        ],
+        "time": "16-20 minutes",
+        "servings": "4-6"
+      },
+        
+      {
+        "id": 2,
+        "category_id": 2016343,
+        "name": "Beef Stroganoff",
+        "image_url": "https://www.seriouseats.com/thmb/job4SkNtF0pR9Htyucz_jAd4xQA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__12__20150110-beef-stroganoff-food-lab-28-c02205e4bcc64a1bb5c92c6e3262dc76.jpg",
+        "description": "A hearty Russian dish made with tender beef, mushrooms, and a sour cream sauce.",
+        "ingredients": [
+          "1 pound beef sirloin, sliced into thin strips",
+          "8 ounces sliced mushrooms",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 cup beef broth",
+          "1/2 cup sour cream",
+          "2 tablespoons flour",
+          "2 tablespoons butter",
+          "Salt and black pepper",
+          "Chopped parsley, for garnish"
+        ],
+        "time": "45 minutes",
+        "servings": "4"
+      },
+      {
+        "id": 3,
+        "category_id": 6491343,
+        "name": "Cholar Dal",
+        "image_url": "https://shwetainthekitchen.com/wp-content/uploads/2023/01/chana-dal.jpg",
+        "description": "A popular Bengali dal made with chana dal (Bengal gram) and flavored with spices and coconut.",
+        "ingredients": [
+          "1 cup chana dal",
+          "2 tbsp ghee",
+          "1 tsp cumin seeds",
+          "1 bay leaf",
+          "1 cinnamon stick",
+          "2-3 cloves",
+          "2-3 cardamom pods",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "Salt to taste",
+          "1 cup coconut milk",
+          "Water as needed",
+          "Chopped cilantro for garnish"
+        ],
+        "time": "45 minutes",
+        "servings": "4-6"
+      },
+      {
+        "id": 4,
+        "category_id": 2018673,
+        "name": "Beef Chili",
+        "image_url": "https://assets.epicurious.com/photos/578d20a00103fcdb27360fe8/1:1/w_1600,c_limit/beef-and-bean-chili.jpg",
+        "description": "A hearty stew made with ground beef, kidney beans, and plenty of spices.",
+        "ingredients": [
+          "2 pounds ground beef",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "2 cloves garlic, minced",
+          "2 cans diced tomatoes",
+          "2 cans kidney beans, drained and rinsed",
+          "2 tablespoons chili powder",
+          "1 tablespoon ground cumin",
+          "1 teaspoon smoked paprika",
+          "Salt and black pepper",
+          "Sour cream, shredded cheese, and chopped cilantro, for serving"
+        ],
+        "time": "1 hour 30 minutes",
+        "servings": "8"
+      },
+      {
+        "id": 5,
+        "category_id": 20761143,
+        "name": "Pesto Pasta",
+        "image_url": "https://www.sipandfeast.com/wp-content/uploads/2022/05/chicken-pesto-pasta-salad-recipe-4.jpg",
+        "description": "This simple and flavorful pasta dish is perfect for a quick weeknight meal. It features al dente pasta tossed with homemade basil pesto and topped with grated Parmesan cheese.",
+        "ingredients": [
+          "12 oz. spaghetti",
+          "2 cups fresh basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup pine nuts",
+          "3 cloves garlic",
+          "1/2 cup olive oil",
+          "Salt and pepper to taste"
+        ],
+        "time": "30 minutes",
+        "servings": 4
+      },
+      {
+        "id": 6,
+        "category_id": 20631243,
+        "name": "Roasted Vegetables",
+        "image_url": "https://sweetsimplevegan.com/wp-content/uploads/2020/08/Simple-Roasted-Vegetables-Recipe-Sweet-Simple-Vegan-5.jpg",
+        "description": "This colorful and nutritious side dish is easy to make and perfect for any meal. It features a variety of roasted vegetables, including carrots, bell peppers, zucchini, and onions.",
+        "ingredients": [
+          "2 cups baby carrots",
+          "2 bell peppers, seeded and sliced",
+          "2 zucchini, sliced",
+          "1 large onion, sliced",
+          "2 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper"
+        ],
+        "time": "45 minutes",
+        "servings": 6
+      },
+      {
+        "id": 6,
+        "category_id": 5321343,
+        "name": "Beef Stroganoff",
+        "image_url": "https://www.daringgourmet.com/wp-content/uploads/2014/12/Slow-Cooker-Beef-Stroganoff-15-728x1092.jpg",
+        "description": "This classic Russian dish is a hearty and comforting meal that is perfect for cold winter nights. It features tender strips of beef in a creamy mushroom sauce served over egg noodles.",
+        "ingredients": [
+          "1 lb. beef sirloin, sliced into thin strips",
+          "8 oz. egg noodles",
+          "1 onion, chopped",
+          "1 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "Salt and pepper to taste"
+        ],
+        "time": "1 hour",
+        "servings": 4
+      },
+      {
+        "id": 5,
+        "category_id": 55633343,
+        "name": "Chocolate Brownies",
+        "image_url": "https://www.cookingclassy.com/wp-content/uploads/2018/01/healthier-brownies-2-768x1152.jpg",
+        "description": "These rich and fudgy brownies are a chocolate lover's dream come true. They are easy to make and perfect for any occasion.",
+        "ingredients": [
+          "1 cup unsalted butter",
+          "2 cups granulated sugar",
+          "4 large eggs",
+          "1 1/2 cups all-purpose flour",
+          "1 cup cocoa powder",
+          "1 tsp salt",
+          "1 tsp vanilla extract"
+        ],
+        "time": "45 minutes",
+        "servings": 12
+      },
+      {
+        "id": 4,
+        "category_id": 5335663,
+        "name": "Coconut Lamb Stew",
+        "image_url": "https://www.cookedandloved.com/wp-content/uploads/2014/06/lamb-curry-recipe-1.jpg",
+        "description": "This hearty coconut lamb stew is what I like to call a nutrient-dense dish, great fuel post-workout. The key is to give this stew enough cooking time for the meat to get nice and tender and for all the flavours to develop together. I've enjoyed this stew many times with simple cauliflower rice, zucchini noodles, quinoa and also with regular basmati rice.",
+        "ingredients": [
+          "600g lamb, cut into 2.5cm cubes",
+          "3 tablespoon tomato paste",
+          "1/4 cup grated Parmesan cheese",
+          "50g grated coconut",
+          "1 clove garlic, minced",
+          "1/4 cup milk",
+          "1/4 cup chopped fresh parsley",
+          "Salt and pepper",
+          "4 green cardamom pods",
+          "2 cups tomato sauce"
+        ],
+        "time": "1 hour",
+        "servings": "4"
+      },
+      {
+        "id": 3,
+        "category_id": 53264343,
+        "name": "Roast Chicken",
+        "image_url": "https://properfoodie.com/wp-content/uploads/2020/02/Roast-Chicken-1-1.jpg",
+        "description": "Simple and classic roast chicken recipe with crispy skin and juicy meat.",
+        "ingredients": [
+          "1 whole chicken, about 4 lbs",
+          "2 tbsp olive oil",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1 lemon, halved",
+          "4 sprigs fresh thyme",
+          "4 garlic cloves, smashed"
+        ],
+        "time": "1 hour 30 minutes",
+        "servings": 4
+      },
+      {
+        "id": 2,
+        "category_id": 53434343,
+        "name": "Beef Stew",
+        "image_url": "https://www.jessicagavin.com/wp-content/uploads/2020/12/beef-stew-12-600x900.jpg",
+        "description": "A hearty and comforting beef stew made with tender beef, carrots, potatoes, and onions.",
+        "ingredients": [
+          "2 pounds beef stew meat",
+          "4 cups beef broth",
+          "1 onion, chopped",
+          "4 carrots, chopped",
+          "3 potatoes, chopped",
+          "2 cloves garlic, minced",
+          "2 tablespoons flour",
+          "2 tablespoons butter",
+          "Salt and pepper to taste"
+        ],
+        "time": "2 hours",
+        "servings": "6"
+      },
+      {
+        "id": 1,
+        "category_id": 553264343,
+        "name": "Chicken Biryani",
+        "image_url": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "In India, the eternal favourite for a special Sunday lunch or a party dish is definitely a perfectly layered Chicken Biryani, dum cooked to perfection! And it’s a visual delight too – a beautiful array of long-grained rice, tender chicken and pungent spices studded with fresh mint and coriander, topped with fried onions and boiled egg wedges. Chicken is a good quality protein and when combined with rice, herbs, spices and yogurt, it makes a healthy and filling one pot meal – like every classic chicken dum biryani should be.",
+        "ingredients": [
+          "Boneless chicken 600 grams",
+          "Basmati rice 1 1/2 cups",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp garam masala",
+          "1 cup tomato puree",
+          "1 cup heavy cream",
+          "4 tbsp butter",
+          "Salt to taste"
+        ],
+        "time": "16-20 minutes",
+        "serving": "4"
+      },
+      {
+        "id": 1,
+        "category_id": 20547673,
+        "name": "Beef Chili",
+        "image_url": "https://assets.epicurious.com/photos/578d20a00103fcdb27360fe8/1:1/w_1600,c_limit/beef-and-bean-chili.jpg",
+        "description": "A hearty stew made with ground beef, kidney beans, and plenty of spices.",
+        "ingredients": [
+          "2 pounds ground beef",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "2 cloves garlic, minced",
+          "2 cans diced tomatoes",
+          "2 cans kidney beans, drained and rinsed",
+          "2 tablespoons chili powder",
+          "1 tablespoon ground cumin",
+          "1 teaspoon smoked paprika",
+          "Salt and black pepper",
+          "Sour cream, shredded cheese, and chopped cilantro, for serving"
+        ],
+        "time": "1 hour 30 minutes",
+        "servings": "8"
+      },
+      {
+        "id": 2,
+        "category_id": 503264343,
+        "name": "Butter Chicken",
+        "image_url": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--750x750.jpg",
+        "description": "Butter chicken is a classic Indian dish made with marinated chicken cooked in a creamy tomato-based sauce.",
+        "ingredients": [
+          "2 lbs boneless chicken",
+          "1 cup plain yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp red chili powder",
+          "1 tsp garam masala",
+          "1 cup tomato puree",
+          "1 cup heavy cream",
+          "4 tbsp butter",
+          "Salt to taste"
+        ],
+        "time": "1 hour",
+        "serving": "4"
+      },
+      {
+        "id": 3,
+        "category_id": 55783343,
+        "name": "Haleem",
+        "image_url": "https://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Haleem---Mummy-Ka-Magic-FoodFood.JPG",
+        "description": "Haleem is a stew composed of meat, lentil and pounded wheat made into a thick paste. It originated as an Arabic dish and was introduced to the Hyderabad state (India) by the Arab diaspora during the Nizam of Hyderabad's rule.",
+        "ingredients": [
+          "Boneless mutton , cut into 1 inch cubes 300 grams",
+          "Red chilli powder 1 teaspoon",
+          "Garam masala powder 1/2 teaspoo",
+          "Green chilli paste 1 teaspoon",
+          "Meat masala 2 teaspoons",
+          "1 tsp salt",
+          "Lemon slices for garnishing",
+          "Fresh mint sprig for gar for garnishing"
+        ],
+        "time": "45 minutes",
+        "servings": "12"
+      },
+      {
+        "id": 4,
+        "category_id": 8561343,
+        "name": " Butterfly Chicken",
+        "image_url": "https://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Butterfly-Chicken-Mummy-Ka-Magic-FoodFood.JPG",
+        "description": "This classic Indian dish is a hearty and comforting meal that is perfect for cold winter nights. It features tender strips of beef in a creamy mushroom sauce served over egg noodles.",
+        "ingredients": [
+          "Boneless chicken breasts , cut into 1 inch cubes 400 grams",
+          "Potatoes , peeled, cut into thin slices",
+          "1 onion, chopped",
+          "1 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "Lemon juice 1 teaspoon",
+          "Chicken masala 1/2 tablespoon",
+          "2 tbsp flour",
+          "2 tbsp butter",
+          "Salt and pepper to taste"
+        ],
+        "time": "1 hour",
+        "servings": "4"
+      },
+      {
+        "id": 6,
+        "category_id": 8541343,
+        "name": "Paneer Tikka Masala",
+        "image_url": "https://cdn.mygingergarlickitchen.com/images/800px/800px-paneer-tikka-masala-recipe-video-anupama-paliwal-my-ginger-garlic-kitchen-4.jpg",
+        "description": "Fusion cuisine is one that combines elements of different culinary traditions. Cuisines of this type are not categorized according to any one particular cuisine style and have played a part in a number of innovations. Fusion food is a general term for the combination of various forms of cookery and comes in several forms.",
+        "ingredients": [
+          "Readymade paneer tikka 300 grams",
+          "Multigrain buns 4",
+          "2 tbsp mustard paste",
+          "1 tsp turmeric powder",
+          "2 green chilies, chopped",
+          "Salt to taste",
+          "Water as needed",
+          "Chopped cilantro for garnish",
+          "Red chilli powder 1/2",
+          "Tomato , finely chopped 1 medium"
+        ],
+        "time": "15-20 minutes",
+        "servings": "4-6"
+      },
+      {
+        "id": 5,
+        "category_id": 9787661143,
+        "name": "Kal ka Chicken Pulao",
+        "image_url": "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Chicken-Pulao.jpg",
+        "description": "This simple and flavorful Chicken Pulao is perfect for a quick weeknight meal. It features al dente pasta tossed with homemade basil pesto and topped with grated Parmesan cheese. Make a sumptuous pulao with leftover chicken curry",
+        "ingredients": [
+          "Leftover chicken curry 1 cup",
+          "Basmati rice, soaked 1 cup",
+          "Oil 2 tbsps",
+          "1/4 cup pine nuts",
+          "3 cloves garlic",
+          "1/2 cup olive oil",
+          "Salt and pepper to taste",
+          "Garam masala powder 1 tsp",
+          "Medium tomatoes, chopped 2",
+          "Salt to taste"
+        ],
+        "time": "40 minutes",
+        "servings": "4"
+      }
+]
